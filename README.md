@@ -18,11 +18,8 @@ A simple, elegant calculator built using Python and Tkinter. Inspired by the iOS
 ---
 
 ## 🖼️ Preview
+<img width="428" alt="Screenshot 2025-07-04 at 21 01 03" src="https://github.com/user-attachments/assets/42592e70-08fa-493b-84a6-001a11a878db" />
 
-![Calculator Preview](preview.png)  
-*(Replace with your own screenshot if hosted)*
-
----
 
 ## 🚀 Getting Started
 
